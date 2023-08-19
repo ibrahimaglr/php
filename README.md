@@ -1,4 +1,4 @@
-# MySQL PHP APİ DEMOS
+# MySQL PHP API DEMOS
 
 - ban system
 - ip ban system
